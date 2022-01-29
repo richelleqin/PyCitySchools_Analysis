@@ -16,3 +16,9 @@ The purpose of this analysis is to determine the performance of individual schoo
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
         - There is no record for grade 9 Thomas High School.
+    - Scores by school spending
+        - Since Thomas High School is categorized under range 630-644, we can see that after removing data, the passing rate is slightly decreased compared to original table. The reason of this minor change is because we had removed the grade 9 Thomas High School population and the grade 10 to 12 performance was still similar to what was there before. 
+    - Scores by school size
+        - Applying the same logic to school size, the number is slightly lower than the original dataset after removing grade 9 Thomas High School. 
+    - Scores by school type
+        - Similar to school size and school spending, the number is slightly lower than the original dataset after removing grade 9 Thomas High School. 
