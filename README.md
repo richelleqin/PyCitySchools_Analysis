@@ -21,4 +21,7 @@ The purpose of this analysis is to determine the performance of individual schoo
     - Scores by school size
         - Applying the same logic to school size, the number is slightly lower than the original dataset after removing grade 9 Thomas High School. 
     - Scores by school type
-        - Similar to school size and school spending, the number is slightly lower than the original dataset after removing grade 9 Thomas High School. 
+        - Similar to school size and school spending, the number is slightly lower than the original dataset after removing grade 9 Thomas High School.
+## Summary
+After reading and math scores for the ninth grade Thomas High School students were replaced with NaNs, four major changes occurred.
+1)  
