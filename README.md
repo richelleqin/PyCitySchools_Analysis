@@ -24,4 +24,7 @@ The purpose of this analysis is to determine the performance of individual schoo
         - Similar to school size and school spending, the number is slightly lower than the original dataset after removing grade 9 Thomas High School.
 ## Summary
 After reading and math scores for the ninth grade Thomas High School students were replaced with NaNs, four major changes occurred.
-1) 
+-  Automatically 460 students were considered to be failing math and failing reading. 
+-  District % Overall Passing, % Math Passing, and % Reading Passing fell as 1.1% of the population is automatically failing.
+-  Thomas High School’s % Overall Passing, % Math Passing, and % Reading Passing fell by 26% as 28% of its student population is automatically failing.
+-  When comparing reading and math scores by grade, Thomas High School would have NaNs in grade 9 average grades for reading and math. 
